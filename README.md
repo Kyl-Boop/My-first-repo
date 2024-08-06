@@ -1,2 +1,2 @@
-#my repo
-hello my repo
+# my repo
+$/theta=x^2$
