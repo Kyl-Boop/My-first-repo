@@ -1,2 +1,2 @@
 # my repo
-$/theta=x^2$
+H~2~O
